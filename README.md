@@ -19,8 +19,8 @@
 - :school: I am a `Freshman` in [School of Electrical and Computer Engineering](https://ece.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/)
 - :technologist: **Currently working on** `Machine Learning, Database Analysis` **&** `Embedded Programming`
 - :boom: You can visit [MY WEBSITE](https://gciputra.github.io) for some of my current side projects!!
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:gciputra@umich.edu)
-- :nerd_face: I'm a firm believer that "We are all destined for great things!"
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=GaryCiputra&amp;color=EA4335&amp;style=flat-square)](mailto:gciputra@umich.edu)
+- :muscle: I'm a firm believer that "We are all destined for great things!"
 
 <br>
 
@@ -97,34 +97,17 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
 
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ElioChiu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-<!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
 
 <br>
 
-<!--profile visit count-->
 
-<div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=ElioChiu&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----------
 
-Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023
+Template Credit: [ElioChiu](https://github.com/ElioChiu)
