@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: I am a `Freshman` in [School of Electrical and Computer Engineering](https://ece.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/)
+- :school: I am a `Junior` in [School of Electrical and Computer Engineering](https://ece.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/)
 - :technologist: **Currently working on** `Machine Learning, Database Analysis` **&** `Embedded Programming`
 - :boom: You can visit [MY WEBSITE](https://gciputra.github.io) for some of my current side projects!!
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=GaryCiputra&amp;color=EA4335&amp;style=flat-square)](mailto:gciputra@umich.edu)
